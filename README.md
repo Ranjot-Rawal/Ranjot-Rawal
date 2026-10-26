@@ -1,3 +1,18 @@
+# About Me — Ranjot Rawal
+
+I'm Ranjot Rawal, a B.Tech Computer Science and Engineering student at CGC Landran with a strong interest in full-stack web development, artificial intelligence, and building innovative technology solutions.
+
+I enjoy turning ideas into functional web applications and exploring how technology can solve real-world problems. My technical skills include HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, MySQL, REST APIs, C++, and Python. I'm particularly interested in backend development, AI integration, and creating useful, user-friendly applications.
+
+I've worked on projects such as **Chronicle Nexus**, a digital museum with an AI-powered assistant, and **GovLink Nexus**, a concept focused on connecting government digital platforms. I also enjoy participating in hackathons and challenging myself through practical development.
+
+One of my proudest achievements is securing **1st Prize at the Chandigarh Police Hackathon 2026**, competing among 583 teams from across India. I received **₹1,25,000 in total prize money**, including the ₹1,00,000 first prize and an additional ₹25,000.
+
+I'm continuously working to strengthen my technical skills, explore emerging technologies, and gain practical industry experience. My goal is to become a skilled software developer who builds meaningful products and contributes to solving real-world challenges.
+
+Beyond coding, I enjoy learning new technologies, experimenting with project ideas, and pushing myself to grow both personally and professionally.
+
+**My philosophy:** Learn continuously, build consistently, and turn ideas into reality.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranjot_rawal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjot-rawal) 
 
